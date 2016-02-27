@@ -1,0 +1,5 @@
+d:\Users\code\documents\visual studio 2015\Projects\TestOOP\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+d:\Users\code\documents\visual studio 2015\Projects\TestOOP\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+d:\Users\code\documents\visual studio 2015\Projects\TestOOP\ClassLibrary1\obj\Debug\Model.csprojResolveAssemblyReference.cache
+d:\Users\code\documents\visual studio 2015\Projects\TestOOP\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+d:\Users\code\documents\visual studio 2015\Projects\TestOOP\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
