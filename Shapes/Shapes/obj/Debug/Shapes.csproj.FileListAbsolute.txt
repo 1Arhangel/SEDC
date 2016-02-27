@@ -1,0 +1,8 @@
+d:\users\code\documents\visual studio 2015\Projects\Shapes\Shapes\bin\Debug\Shapes.exe.config
+d:\users\code\documents\visual studio 2015\Projects\Shapes\Shapes\bin\Debug\Shapes.exe
+d:\users\code\documents\visual studio 2015\Projects\Shapes\Shapes\bin\Debug\Shapes.pdb
+d:\users\code\documents\visual studio 2015\Projects\Shapes\Shapes\bin\Debug\Model.dll
+d:\users\code\documents\visual studio 2015\Projects\Shapes\Shapes\bin\Debug\Model.pdb
+d:\users\code\documents\visual studio 2015\Projects\Shapes\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+d:\users\code\documents\visual studio 2015\Projects\Shapes\Shapes\obj\Debug\Shapes.exe
+d:\users\code\documents\visual studio 2015\Projects\Shapes\Shapes\obj\Debug\Shapes.pdb
