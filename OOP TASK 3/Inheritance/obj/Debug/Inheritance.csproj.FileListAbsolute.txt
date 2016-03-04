@@ -1,0 +1,5 @@
+d:\users\code\documents\visual studio 2015\Projects\OOP TASK 3\Inheritance\bin\Debug\Inheritance.dll
+d:\users\code\documents\visual studio 2015\Projects\OOP TASK 3\Inheritance\bin\Debug\Inheritance.pdb
+d:\users\code\documents\visual studio 2015\Projects\OOP TASK 3\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+d:\users\code\documents\visual studio 2015\Projects\OOP TASK 3\Inheritance\obj\Debug\Inheritance.dll
+d:\users\code\documents\visual studio 2015\Projects\OOP TASK 3\Inheritance\obj\Debug\Inheritance.pdb

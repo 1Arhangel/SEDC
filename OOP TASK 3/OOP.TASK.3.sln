@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP TASK 3", "OOP TASK 3\OOP TASK 3.csproj", "{722FA63E-CB37-44B4-B5CC-5A1FC0D01678}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{9EEEDF1E-81F0-464F-B82E-85B740CD059D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{2C97543F-0CE7-4BA8-9852-0E453D1B748C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{722FA63E-CB37-44B4-B5CC-5A1FC0D01678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{722FA63E-CB37-44B4-B5CC-5A1FC0D01678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{722FA63E-CB37-44B4-B5CC-5A1FC0D01678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{722FA63E-CB37-44B4-B5CC-5A1FC0D01678}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EEEDF1E-81F0-464F-B82E-85B740CD059D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EEEDF1E-81F0-464F-B82E-85B740CD059D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EEEDF1E-81F0-464F-B82E-85B740CD059D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EEEDF1E-81F0-464F-B82E-85B740CD059D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C97543F-0CE7-4BA8-9852-0E453D1B748C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C97543F-0CE7-4BA8-9852-0E453D1B748C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C97543F-0CE7-4BA8-9852-0E453D1B748C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C97543F-0CE7-4BA8-9852-0E453D1B748C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
