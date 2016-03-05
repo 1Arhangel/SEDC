@@ -1,0 +1,6 @@
+d:\users\code\documents\visual studio 2015\Projects\DataTypes\ConversionBetweenTypes\bin\Debug\ConversionBetweenTypes.exe.config
+d:\users\code\documents\visual studio 2015\Projects\DataTypes\ConversionBetweenTypes\bin\Debug\ConversionBetweenTypes.exe
+d:\users\code\documents\visual studio 2015\Projects\DataTypes\ConversionBetweenTypes\bin\Debug\ConversionBetweenTypes.pdb
+d:\users\code\documents\visual studio 2015\Projects\DataTypes\ConversionBetweenTypes\obj\Debug\ConversionBetweenTypes.exe
+d:\users\code\documents\visual studio 2015\Projects\DataTypes\ConversionBetweenTypes\obj\Debug\ConversionBetweenTypes.pdb
+d:\users\code\documents\visual studio 2015\Projects\DataTypes\ConversionBetweenTypes\obj\Debug\ConversionBetweenTypes.csprojResolveAssemblyReference.cache
