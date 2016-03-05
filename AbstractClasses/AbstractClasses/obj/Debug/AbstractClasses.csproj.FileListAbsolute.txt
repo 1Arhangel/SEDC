@@ -1,0 +1,8 @@
+d:\users\code\documents\visual studio 2015\Projects\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+d:\users\code\documents\visual studio 2015\Projects\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe
+d:\users\code\documents\visual studio 2015\Projects\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.pdb
+d:\users\code\documents\visual studio 2015\Projects\AbstractClasses\AbstractClasses\bin\Debug\Model.dll
+d:\users\code\documents\visual studio 2015\Projects\AbstractClasses\AbstractClasses\bin\Debug\Model.pdb
+d:\users\code\documents\visual studio 2015\Projects\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csprojResolveAssemblyReference.cache
+d:\users\code\documents\visual studio 2015\Projects\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.exe
+d:\users\code\documents\visual studio 2015\Projects\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.pdb
