@@ -1,0 +1,8 @@
+d:\users\code\documents\visual studio 2015\Projects\Object Initializers\Object Initializers\bin\Debug\Object Initializers.exe.config
+d:\users\code\documents\visual studio 2015\Projects\Object Initializers\Object Initializers\bin\Debug\Object Initializers.exe
+d:\users\code\documents\visual studio 2015\Projects\Object Initializers\Object Initializers\bin\Debug\Object Initializers.pdb
+d:\users\code\documents\visual studio 2015\Projects\Object Initializers\Object Initializers\bin\Debug\Model.dll
+d:\users\code\documents\visual studio 2015\Projects\Object Initializers\Object Initializers\bin\Debug\Model.pdb
+d:\users\code\documents\visual studio 2015\Projects\Object Initializers\Object Initializers\obj\Debug\Object Initializers.csprojResolveAssemblyReference.cache
+d:\users\code\documents\visual studio 2015\Projects\Object Initializers\Object Initializers\obj\Debug\Object Initializers.exe
+d:\users\code\documents\visual studio 2015\Projects\Object Initializers\Object Initializers\obj\Debug\Object Initializers.pdb
