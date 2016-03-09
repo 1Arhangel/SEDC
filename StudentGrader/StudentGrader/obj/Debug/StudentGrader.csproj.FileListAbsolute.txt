@@ -1,0 +1,8 @@
+c:\users\arhangel\documents\visual studio 2015\Projects\StudentGrader\StudentGrader\bin\Debug\StudentGrader.exe.config
+c:\users\arhangel\documents\visual studio 2015\Projects\StudentGrader\StudentGrader\bin\Debug\StudentGrader.exe
+c:\users\arhangel\documents\visual studio 2015\Projects\StudentGrader\StudentGrader\bin\Debug\StudentGrader.pdb
+c:\users\arhangel\documents\visual studio 2015\Projects\StudentGrader\StudentGrader\bin\Debug\Model.dll
+c:\users\arhangel\documents\visual studio 2015\Projects\StudentGrader\StudentGrader\bin\Debug\Model.pdb
+c:\users\arhangel\documents\visual studio 2015\Projects\StudentGrader\StudentGrader\obj\Debug\StudentGrader.csprojResolveAssemblyReference.cache
+c:\users\arhangel\documents\visual studio 2015\Projects\StudentGrader\StudentGrader\obj\Debug\StudentGrader.exe
+c:\users\arhangel\documents\visual studio 2015\Projects\StudentGrader\StudentGrader\obj\Debug\StudentGrader.pdb
