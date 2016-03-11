@@ -1,0 +1,8 @@
+d:\users\code\documents\visual studio 2015\Projects\Enumeration\Enumeration\bin\Debug\Enumeration.exe.config
+d:\users\code\documents\visual studio 2015\Projects\Enumeration\Enumeration\bin\Debug\Enumeration.exe
+d:\users\code\documents\visual studio 2015\Projects\Enumeration\Enumeration\bin\Debug\Enumeration.pdb
+d:\users\code\documents\visual studio 2015\Projects\Enumeration\Enumeration\bin\Debug\Status.dll
+d:\users\code\documents\visual studio 2015\Projects\Enumeration\Enumeration\bin\Debug\Status.pdb
+d:\users\code\documents\visual studio 2015\Projects\Enumeration\Enumeration\obj\Debug\Enumeration.csprojResolveAssemblyReference.cache
+d:\users\code\documents\visual studio 2015\Projects\Enumeration\Enumeration\obj\Debug\Enumeration.exe
+d:\users\code\documents\visual studio 2015\Projects\Enumeration\Enumeration\obj\Debug\Enumeration.pdb

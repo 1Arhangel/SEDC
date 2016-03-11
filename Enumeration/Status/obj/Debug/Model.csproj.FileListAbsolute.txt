@@ -1,0 +1,5 @@
+d:\users\code\documents\visual studio 2015\Projects\Enumeration\Status\bin\Debug\Status.dll
+d:\users\code\documents\visual studio 2015\Projects\Enumeration\Status\bin\Debug\Status.pdb
+d:\users\code\documents\visual studio 2015\Projects\Enumeration\Status\obj\Debug\Model.csprojResolveAssemblyReference.cache
+d:\users\code\documents\visual studio 2015\Projects\Enumeration\Status\obj\Debug\Status.dll
+d:\users\code\documents\visual studio 2015\Projects\Enumeration\Status\obj\Debug\Status.pdb
