@@ -1,0 +1,9 @@
+d:\users\code\documents\visual studio 2015\Projects\Events\Events\bin\Debug\Events.exe.config
+d:\users\code\documents\visual studio 2015\Projects\Events\Events\bin\Debug\Events.exe
+d:\users\code\documents\visual studio 2015\Projects\Events\Events\bin\Debug\Events.pdb
+d:\users\code\documents\visual studio 2015\Projects\Events\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+d:\users\code\documents\visual studio 2015\Projects\Events\Events\obj\Debug\Events.Form1.resources
+d:\users\code\documents\visual studio 2015\Projects\Events\Events\obj\Debug\Events.Properties.Resources.resources
+d:\users\code\documents\visual studio 2015\Projects\Events\Events\obj\Debug\Events.csproj.GenerateResource.Cache
+d:\users\code\documents\visual studio 2015\Projects\Events\Events\obj\Debug\Events.exe
+d:\users\code\documents\visual studio 2015\Projects\Events\Events\obj\Debug\Events.pdb
