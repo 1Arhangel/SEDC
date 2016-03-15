@@ -1,0 +1,5 @@
+c:\users\arhangel\documents\visual studio 2015\Projects\AdvancedHomework1\Interfaces\bin\Debug\Interfaces.dll
+c:\users\arhangel\documents\visual studio 2015\Projects\AdvancedHomework1\Interfaces\bin\Debug\Interfaces.pdb
+c:\users\arhangel\documents\visual studio 2015\Projects\AdvancedHomework1\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+c:\users\arhangel\documents\visual studio 2015\Projects\AdvancedHomework1\Interfaces\obj\Debug\Interfaces.dll
+c:\users\arhangel\documents\visual studio 2015\Projects\AdvancedHomework1\Interfaces\obj\Debug\Interfaces.pdb

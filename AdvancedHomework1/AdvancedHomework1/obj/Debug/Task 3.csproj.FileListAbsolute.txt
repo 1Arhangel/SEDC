@@ -1,0 +1,9 @@
+c:\users\arhangel\documents\visual studio 2015\Projects\AdvancedHomework1\AdvancedHomework1\bin\Debug\AdvancedHomework1.exe.config
+c:\users\arhangel\documents\visual studio 2015\Projects\AdvancedHomework1\AdvancedHomework1\bin\Debug\AdvancedHomework1.exe
+c:\users\arhangel\documents\visual studio 2015\Projects\AdvancedHomework1\AdvancedHomework1\bin\Debug\AdvancedHomework1.pdb
+c:\users\arhangel\documents\visual studio 2015\Projects\AdvancedHomework1\AdvancedHomework1\bin\Debug\Interfaces.dll
+c:\users\arhangel\documents\visual studio 2015\Projects\AdvancedHomework1\AdvancedHomework1\bin\Debug\Model.dll
+c:\users\arhangel\documents\visual studio 2015\Projects\AdvancedHomework1\AdvancedHomework1\bin\Debug\Interfaces.pdb
+c:\users\arhangel\documents\visual studio 2015\Projects\AdvancedHomework1\AdvancedHomework1\bin\Debug\Model.pdb
+c:\users\arhangel\documents\visual studio 2015\Projects\AdvancedHomework1\AdvancedHomework1\obj\Debug\AdvancedHomework1.exe
+c:\users\arhangel\documents\visual studio 2015\Projects\AdvancedHomework1\AdvancedHomework1\obj\Debug\AdvancedHomework1.pdb
