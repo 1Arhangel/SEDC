@@ -1,0 +1,6 @@
+d:\users\code\documents\visual studio 2015\Projects\AnonymousTypes\AnonymousTypes\bin\Debug\AnonymousTypes.exe.config
+d:\users\code\documents\visual studio 2015\Projects\AnonymousTypes\AnonymousTypes\obj\Debug\AnonymousTypes.csprojResolveAssemblyReference.cache
+d:\users\code\documents\visual studio 2015\Projects\AnonymousTypes\AnonymousTypes\bin\Debug\AnonymousTypes.exe
+d:\users\code\documents\visual studio 2015\Projects\AnonymousTypes\AnonymousTypes\bin\Debug\AnonymousTypes.pdb
+d:\users\code\documents\visual studio 2015\Projects\AnonymousTypes\AnonymousTypes\obj\Debug\AnonymousTypes.exe
+d:\users\code\documents\visual studio 2015\Projects\AnonymousTypes\AnonymousTypes\obj\Debug\AnonymousTypes.pdb
