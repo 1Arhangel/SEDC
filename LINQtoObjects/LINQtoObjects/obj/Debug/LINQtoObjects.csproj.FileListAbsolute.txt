@@ -1,0 +1,10 @@
+d:\users\code\documents\visual studio 2015\Projects\LINQtoObjects\LINQtoObjects\bin\Debug\LINQtoObjects.exe.config
+d:\users\code\documents\visual studio 2015\Projects\LINQtoObjects\LINQtoObjects\bin\Debug\LINQtoObjects.exe
+d:\users\code\documents\visual studio 2015\Projects\LINQtoObjects\LINQtoObjects\bin\Debug\LINQtoObjects.pdb
+d:\users\code\documents\visual studio 2015\Projects\LINQtoObjects\LINQtoObjects\bin\Debug\Model.dll
+d:\users\code\documents\visual studio 2015\Projects\LINQtoObjects\LINQtoObjects\bin\Debug\Model.pdb
+d:\users\code\documents\visual studio 2015\Projects\LINQtoObjects\LINQtoObjects\obj\Debug\LINQtoObjects.csprojResolveAssemblyReference.cache
+d:\users\code\documents\visual studio 2015\Projects\LINQtoObjects\LINQtoObjects\obj\Debug\LINQtoObjects.exe
+d:\users\code\documents\visual studio 2015\Projects\LINQtoObjects\LINQtoObjects\obj\Debug\LINQtoObjects.pdb
+d:\users\code\documents\visual studio 2015\Projects\LINQtoObjects\LINQtoObjects\bin\Debug\Product.dll
+d:\users\code\documents\visual studio 2015\Projects\LINQtoObjects\LINQtoObjects\bin\Debug\Product.pdb
