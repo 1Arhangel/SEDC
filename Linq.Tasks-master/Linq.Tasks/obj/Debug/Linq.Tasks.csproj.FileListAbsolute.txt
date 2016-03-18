@@ -1,0 +1,8 @@
+D:\Users\code\Desktop\dare\Linq.Tasks-master\Linq.Tasks\bin\Debug\Linq.Tasks.exe.config
+D:\Users\code\Desktop\dare\Linq.Tasks-master\Linq.Tasks\bin\Debug\Linq.Tasks.exe
+D:\Users\code\Desktop\dare\Linq.Tasks-master\Linq.Tasks\bin\Debug\Linq.Tasks.pdb
+D:\Users\code\Desktop\dare\Linq.Tasks-master\Linq.Tasks\bin\Debug\Model.dll
+D:\Users\code\Desktop\dare\Linq.Tasks-master\Linq.Tasks\bin\Debug\Model.pdb
+D:\Users\code\Desktop\dare\Linq.Tasks-master\Linq.Tasks\obj\Debug\Linq.Tasks.csprojResolveAssemblyReference.cache
+D:\Users\code\Desktop\dare\Linq.Tasks-master\Linq.Tasks\obj\Debug\Linq.Tasks.exe
+D:\Users\code\Desktop\dare\Linq.Tasks-master\Linq.Tasks\obj\Debug\Linq.Tasks.pdb

@@ -1,0 +1,5 @@
+D:\Users\code\Desktop\dare\Linq.Tasks-master\Model\bin\Debug\Model.dll
+D:\Users\code\Desktop\dare\Linq.Tasks-master\Model\bin\Debug\Model.pdb
+D:\Users\code\Desktop\dare\Linq.Tasks-master\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Users\code\Desktop\dare\Linq.Tasks-master\Model\obj\Debug\Model.dll
+D:\Users\code\Desktop\dare\Linq.Tasks-master\Model\obj\Debug\Model.pdb
