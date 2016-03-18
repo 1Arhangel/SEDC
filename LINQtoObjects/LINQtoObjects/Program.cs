@@ -20,6 +20,23 @@ namespace LINQtoObjects
             return productz = listOfProducts.Where(x => x.UnitPrice > 3000.00 & x.UnitsInStock > 0).ToList();
         }
 
+        public static List<Productz> ListOfProductNames(List<Productz> param)
+        {
+            
+            var productNames = param.Select(x => x.Name).ToList();
+            var unitsOfStock = param.Select(x => x.UnitsInStock).ToList();
+            var productPrice = param.Select(x => x.UnitPrice).ToList();
+
+            //mock return
+            List<Productz> newList = new List<Productz>();
+            return newList;
+
+          
+            
+
+            
+            
+        }
         static void Main(string[] args)
         {
             List<Human> humans = new List<Human> {
