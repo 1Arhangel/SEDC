@@ -1,0 +1,5 @@
+D:\Users\code\Desktop\Advanced LINQ\SEDC.AdvancedLinqSetup-master\SEDC.AdvancedLinqSetup.Domain\bin\Debug\SEDC.AdvancedLinqSetup.Domain.dll
+D:\Users\code\Desktop\Advanced LINQ\SEDC.AdvancedLinqSetup-master\SEDC.AdvancedLinqSetup.Domain\bin\Debug\SEDC.AdvancedLinqSetup.Domain.pdb
+D:\Users\code\Desktop\Advanced LINQ\SEDC.AdvancedLinqSetup-master\SEDC.AdvancedLinqSetup.Domain\obj\Debug\SEDC.AdvancedLinqSetup.Domain.csprojResolveAssemblyReference.cache
+D:\Users\code\Desktop\Advanced LINQ\SEDC.AdvancedLinqSetup-master\SEDC.AdvancedLinqSetup.Domain\obj\Debug\SEDC.AdvancedLinqSetup.Domain.dll
+D:\Users\code\Desktop\Advanced LINQ\SEDC.AdvancedLinqSetup-master\SEDC.AdvancedLinqSetup.Domain\obj\Debug\SEDC.AdvancedLinqSetup.Domain.pdb

@@ -1,0 +1,10 @@
+D:\Users\code\Desktop\Advanced LINQ\SEDC.AdvancedLinqSetup-master\SEDC.AdvancedLinqSetup\bin\Debug\SEDC.AdvancedLinqSetup.exe.config
+D:\Users\code\Desktop\Advanced LINQ\SEDC.AdvancedLinqSetup-master\SEDC.AdvancedLinqSetup\bin\Debug\SEDC.AdvancedLinqSetup.exe
+D:\Users\code\Desktop\Advanced LINQ\SEDC.AdvancedLinqSetup-master\SEDC.AdvancedLinqSetup\bin\Debug\SEDC.AdvancedLinqSetup.pdb
+D:\Users\code\Desktop\Advanced LINQ\SEDC.AdvancedLinqSetup-master\SEDC.AdvancedLinqSetup\bin\Debug\Newtonsoft.Json.dll
+D:\Users\code\Desktop\Advanced LINQ\SEDC.AdvancedLinqSetup-master\SEDC.AdvancedLinqSetup\bin\Debug\SEDC.AdvancedLinqSetup.Domain.dll
+D:\Users\code\Desktop\Advanced LINQ\SEDC.AdvancedLinqSetup-master\SEDC.AdvancedLinqSetup\bin\Debug\SEDC.AdvancedLinqSetup.Domain.pdb
+D:\Users\code\Desktop\Advanced LINQ\SEDC.AdvancedLinqSetup-master\SEDC.AdvancedLinqSetup\bin\Debug\Newtonsoft.Json.xml
+D:\Users\code\Desktop\Advanced LINQ\SEDC.AdvancedLinqSetup-master\SEDC.AdvancedLinqSetup\obj\Debug\SEDC.AdvancedLinqSetup.csprojResolveAssemblyReference.cache
+D:\Users\code\Desktop\Advanced LINQ\SEDC.AdvancedLinqSetup-master\SEDC.AdvancedLinqSetup\obj\Debug\SEDC.AdvancedLinqSetup.exe
+D:\Users\code\Desktop\Advanced LINQ\SEDC.AdvancedLinqSetup-master\SEDC.AdvancedLinqSetup\obj\Debug\SEDC.AdvancedLinqSetup.pdb
