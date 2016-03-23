@@ -1,0 +1,19 @@
+c:\users\arhangel\documents\visual studio 2015\Projects\MusicApp\MusicApp\bin\Debug\MusicApp.exe.config
+c:\users\arhangel\documents\visual studio 2015\Projects\MusicApp\MusicApp\bin\Debug\MusicApp.exe
+c:\users\arhangel\documents\visual studio 2015\Projects\MusicApp\MusicApp\bin\Debug\MusicApp.pdb
+c:\users\arhangel\documents\visual studio 2015\Projects\MusicApp\MusicApp\bin\Debug\Model.dll
+c:\users\arhangel\documents\visual studio 2015\Projects\MusicApp\MusicApp\bin\Debug\Model.pdb
+c:\users\arhangel\documents\visual studio 2015\Projects\MusicApp\MusicApp\obj\Debug\MusicApp.csprojResolveAssemblyReference.cache
+c:\users\arhangel\documents\visual studio 2015\Projects\MusicApp\MusicApp\obj\Debug\MusicApp.exe
+c:\users\arhangel\documents\visual studio 2015\Projects\MusicApp\MusicApp\obj\Debug\MusicApp.pdb
+D:\Users\code\Desktop\so m\SEDC-master\MusicApp\MusicApp\bin\Debug\MusicApp.exe.config
+D:\Users\code\Desktop\so m\SEDC-master\MusicApp\MusicApp\obj\Debug\MusicApp.exe
+D:\Users\code\Desktop\so m\SEDC-master\MusicApp\MusicApp\obj\Debug\MusicApp.pdb
+D:\Users\code\Desktop\so m\SEDC-master\MusicApp\MusicApp\bin\Debug\MusicApp.exe
+D:\Users\code\Desktop\so m\SEDC-master\MusicApp\MusicApp\bin\Debug\MusicApp.pdb
+D:\Users\code\Desktop\so m\SEDC-master\MusicApp\MusicApp\bin\Debug\Model.dll
+D:\Users\code\Desktop\so m\SEDC-master\MusicApp\MusicApp\bin\Debug\Model.pdb
+D:\Users\code\Desktop\so m\SEDC-master\MusicApp\MusicApp\obj\Debug\MusicApp.csprojResolveAssemblyReference.cache
+D:\Users\code\Desktop\so m\SEDC-master\MusicApp.v2.0\MusicApp\bin\Debug\MusicApp.exe.config
+D:\Users\code\Desktop\so m\SEDC-master\MusicApp.v2.0\MusicApp\obj\Debug\MusicApp.exe
+D:\Users\code\Desktop\so m\SEDC-master\MusicApp.v2.0\MusicApp\obj\Debug\MusicApp.pdb

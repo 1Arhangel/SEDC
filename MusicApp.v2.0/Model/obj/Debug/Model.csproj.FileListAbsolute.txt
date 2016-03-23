@@ -1,0 +1,10 @@
+c:\Users\Arhangel\documents\visual studio 2015\Projects\MusicApp\Model\bin\Debug\Model.dll
+c:\Users\Arhangel\documents\visual studio 2015\Projects\MusicApp\Model\bin\Debug\Model.pdb
+c:\Users\Arhangel\documents\visual studio 2015\Projects\MusicApp\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+c:\Users\Arhangel\documents\visual studio 2015\Projects\MusicApp\Model\obj\Debug\Model.dll
+c:\Users\Arhangel\documents\visual studio 2015\Projects\MusicApp\Model\obj\Debug\Model.pdb
+D:\Users\code\Desktop\so m\SEDC-master\MusicApp\Model\bin\Debug\Model.dll
+D:\Users\code\Desktop\so m\SEDC-master\MusicApp\Model\bin\Debug\Model.pdb
+D:\Users\code\Desktop\so m\SEDC-master\MusicApp\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Users\code\Desktop\so m\SEDC-master\MusicApp\Model\obj\Debug\Model.dll
+D:\Users\code\Desktop\so m\SEDC-master\MusicApp\Model\obj\Debug\Model.pdb
