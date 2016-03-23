@@ -1,0 +1,8 @@
+c:\users\arhangel\documents\visual studio 2015\Projects\MusicApp\MusicApp\bin\Debug\MusicApp.exe.config
+c:\users\arhangel\documents\visual studio 2015\Projects\MusicApp\MusicApp\bin\Debug\MusicApp.exe
+c:\users\arhangel\documents\visual studio 2015\Projects\MusicApp\MusicApp\bin\Debug\MusicApp.pdb
+c:\users\arhangel\documents\visual studio 2015\Projects\MusicApp\MusicApp\bin\Debug\Model.dll
+c:\users\arhangel\documents\visual studio 2015\Projects\MusicApp\MusicApp\bin\Debug\Model.pdb
+c:\users\arhangel\documents\visual studio 2015\Projects\MusicApp\MusicApp\obj\Debug\MusicApp.csprojResolveAssemblyReference.cache
+c:\users\arhangel\documents\visual studio 2015\Projects\MusicApp\MusicApp\obj\Debug\MusicApp.exe
+c:\users\arhangel\documents\visual studio 2015\Projects\MusicApp\MusicApp\obj\Debug\MusicApp.pdb
