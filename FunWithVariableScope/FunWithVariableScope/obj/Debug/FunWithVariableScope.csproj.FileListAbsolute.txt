@@ -1,0 +1,8 @@
+d:\users\code\documents\visual studio 2015\Projects\FunWithVariableScope\FunWithVariableScope\bin\Debug\FunWithVariableScope.exe.config
+d:\users\code\documents\visual studio 2015\Projects\FunWithVariableScope\FunWithVariableScope\bin\Debug\FunWithVariableScope.exe
+d:\users\code\documents\visual studio 2015\Projects\FunWithVariableScope\FunWithVariableScope\bin\Debug\FunWithVariableScope.pdb
+d:\users\code\documents\visual studio 2015\Projects\FunWithVariableScope\FunWithVariableScope\obj\Debug\FunWithVariableScope.csprojResolveAssemblyReference.cache
+d:\users\code\documents\visual studio 2015\Projects\FunWithVariableScope\FunWithVariableScope\obj\Debug\FunWithVariableScope.exe
+d:\users\code\documents\visual studio 2015\Projects\FunWithVariableScope\FunWithVariableScope\obj\Debug\FunWithVariableScope.pdb
+d:\users\code\documents\visual studio 2015\Projects\FunWithVariableScope\FunWithVariableScope\bin\Debug\Model.dll
+d:\users\code\documents\visual studio 2015\Projects\FunWithVariableScope\FunWithVariableScope\bin\Debug\Model.pdb
