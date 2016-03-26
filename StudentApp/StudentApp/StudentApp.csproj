@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{144E2FCA-A6AF-4E9F-9C16-F10F2B4E6E12}</ProjectGuid>
+    <ProjectGuid>{0F3EE395-01F1-47FB-A780-26D89FE51FC9}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>StudentApp</RootNamespace>
@@ -51,7 +51,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Model\Model.csproj">
-      <Project>{f17e68aa-ccdc-4ee1-bca0-2f7df9e322e1}</Project>
+      <Project>{094073af-34b0-494b-be16-8abe6717bcd4}</Project>
       <Name>Model</Name>
     </ProjectReference>
   </ItemGroup>

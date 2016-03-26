@@ -1,8 +1,8 @@
-c:\users\arhangel\documents\visual studio 2015\Projects\StudentApp\StudentApp\bin\Debug\StudentApp.exe.config
-c:\users\arhangel\documents\visual studio 2015\Projects\StudentApp\StudentApp\bin\Debug\StudentApp.exe
-c:\users\arhangel\documents\visual studio 2015\Projects\StudentApp\StudentApp\bin\Debug\StudentApp.pdb
-c:\users\arhangel\documents\visual studio 2015\Projects\StudentApp\StudentApp\bin\Debug\Model.dll
-c:\users\arhangel\documents\visual studio 2015\Projects\StudentApp\StudentApp\bin\Debug\Model.pdb
-c:\users\arhangel\documents\visual studio 2015\Projects\StudentApp\StudentApp\obj\Debug\StudentApp.csprojResolveAssemblyReference.cache
-c:\users\arhangel\documents\visual studio 2015\Projects\StudentApp\StudentApp\obj\Debug\StudentApp.exe
-c:\users\arhangel\documents\visual studio 2015\Projects\StudentApp\StudentApp\obj\Debug\StudentApp.pdb
+d:\users\code\documents\visual studio 2015\Projects\StudentApp\StudentApp\bin\Debug\StudentApp.exe.config
+d:\users\code\documents\visual studio 2015\Projects\StudentApp\StudentApp\bin\Debug\StudentApp.exe
+d:\users\code\documents\visual studio 2015\Projects\StudentApp\StudentApp\bin\Debug\StudentApp.pdb
+d:\users\code\documents\visual studio 2015\Projects\StudentApp\StudentApp\bin\Debug\Model.dll
+d:\users\code\documents\visual studio 2015\Projects\StudentApp\StudentApp\bin\Debug\Model.pdb
+d:\users\code\documents\visual studio 2015\Projects\StudentApp\StudentApp\obj\Debug\StudentApp.csprojResolveAssemblyReference.cache
+d:\users\code\documents\visual studio 2015\Projects\StudentApp\StudentApp\obj\Debug\StudentApp.exe
+d:\users\code\documents\visual studio 2015\Projects\StudentApp\StudentApp\obj\Debug\StudentApp.pdb
